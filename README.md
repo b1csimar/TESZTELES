@@ -1,0 +1,2 @@
+# TESZTELES
+teszteles_gyak
